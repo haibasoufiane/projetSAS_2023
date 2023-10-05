@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695655477 source:c:\users\youco\desktop\projetsas\projetsas_2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
